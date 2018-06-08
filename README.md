@@ -1,3 +1,4 @@
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/denniscalazans/leave-a-message.png?columns=all)](https://waffle.io/denniscalazans/leave-a-message?utm_source=badge)
 [ ![Codeship Status for denniscalazans/leave-a-message](https://app.codeship.com/projects/4ae10180-4d1e-0136-0b3d-665372c39133/status?branch=master)](https://app.codeship.com/projects/293312)
 
 [![codecov](https://codecov.io/gh/denniscalazans/leave-a-message/branch/master/graph/badge.svg)](https://codecov.io/gh/denniscalazans/leave-a-message)
