@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "leave-a-message-app"
+    "default": "leave-a-message-app",
+    "dev": "leave-a-message-beta",
+    "prod": "leave-a-message-app"
   }
 }

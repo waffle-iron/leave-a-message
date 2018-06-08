@@ -1,4 +1,4 @@
-[![Build Status](https://semaphoreci.com/api/v1/denniscalazans/leave-a-message/branches/master/badge.svg)](https://semaphoreci.com/denniscalazans/leave-a-message)
+[ ![Codeship Status for denniscalazans/leave-a-message](https://app.codeship.com/projects/4ae10180-4d1e-0136-0b3d-665372c39133/status?branch=master)](https://app.codeship.com/projects/293312)
 
 [![codecov](https://codecov.io/gh/denniscalazans/leave-a-message/branch/master/graph/badge.svg)](https://codecov.io/gh/denniscalazans/leave-a-message)
 
